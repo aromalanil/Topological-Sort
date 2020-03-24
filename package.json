@@ -1,0 +1,15 @@
+{
+  "name": "toplological-sort",
+  "version": "1.0.0",
+  "description": "A program to perform topological sort on directed acyclic graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Aromal Anil",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
