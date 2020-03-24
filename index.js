@@ -84,4 +84,6 @@ for (let i = 0; i < noOfEdges; i++) {
     g.addEdge(firstVertex, secondVertex);
 }
 
+
+console.log("\n\nFollowing is a Topological Sort of the given graph ");
 g.topologicalSort();
