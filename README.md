@@ -29,3 +29,9 @@ To run the program in your computer.
 ```bash
 npm run
 ```
+
+## Sample Output
+</br>
+<div align="center">
+<img src="https://github.com/aromalanil/Topological-Sort/blob/master/screenshot/sample%20output.jpg?raw=true"/>
+</div>
